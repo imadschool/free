@@ -6,3 +6,13 @@ Invoke-WebRequest `
 
 
 Start-Process "$env:TEMP\chrome_installer.exe" -Wait
+
+
+
+
+
+
+VBoxManage modifymedium disk "F:\NEWsage\CLONE de sage 200gb\CLONE de sage 200gb.vdi" --resize 204800
+
+
+
